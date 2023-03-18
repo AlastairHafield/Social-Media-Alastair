@@ -1,0 +1,15 @@
+{
+  "name": "social-media-module-18",
+  "version": "1.0.0",
+  "description": "A no SQL application demanstrating MongoDb's capabilities",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alastair Hatfield",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.0.2"
+  }
+}
