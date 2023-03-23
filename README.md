@@ -10,6 +10,9 @@
 - [Additional Info](#additional-info)
 - [Questions and Contribution instructions](#questions-and-contribution-instructions)
 
+## Insomnia Video Link
+https://drive.google.com/file/d/1Gp0ZDbNWIyURgHhdY-3F0uoAnrZiFgD5/view
+
 ## Description:
 
 GIVEN a social network API WHEN I enter the command to invoke the application
